@@ -5,7 +5,9 @@
     "start": "node app"
   },
   "dependencies": {
-    "send": "^0.16.2"
+    "send": "^0.16.2",
+    "foo" : "1.0.0 - 2.9999.9999",
+    "lat" : "latest"
   },
   "devDependencies": {
     "debug": "^4.1.1"
