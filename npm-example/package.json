@@ -7,7 +7,9 @@
   "dependencies": {
     "send": "^0.16.2",
     "foo" : "1.0.0 - 2.9999.9999",
-    "lat" : "latest"
+    "lat" : "latest",
+    "til" : "~1.2",
+    "boo" : "2.0.1"
   },
   "devDependencies": {
     "debug": "^4.1.1"
